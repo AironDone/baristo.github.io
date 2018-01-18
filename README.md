@@ -1,3 +1,3 @@
 # baristo
 
-baristo.github.io
+[Безымянная кофейня](baristo.github.io)
